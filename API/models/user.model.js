@@ -1,4 +1,0 @@
-class UserModel extends baseModel(){
-
-
-}
